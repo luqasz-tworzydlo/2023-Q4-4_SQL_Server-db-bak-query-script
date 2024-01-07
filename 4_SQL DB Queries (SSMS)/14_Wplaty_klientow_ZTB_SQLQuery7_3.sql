@@ -1,0 +1,3 @@
+USE [14_Wplaty_klientow_ZTB]
+GO
+ALTER TABLE Klient ADD CONSTRAINT indeks_PESEL UNIQUE (PESEL)
