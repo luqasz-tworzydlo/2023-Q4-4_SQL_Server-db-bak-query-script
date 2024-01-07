@@ -1,0 +1,1 @@
+DROP DATABASE [12_MyNewEmptyDatabase_ZTB]
